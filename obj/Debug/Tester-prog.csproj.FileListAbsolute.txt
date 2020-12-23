@@ -1,0 +1,28 @@
+C:\Users\Globa\source\repos\Tester-prog\Tester-prog\bin\Debug\Tester-prog.exe.config
+C:\Users\Globa\source\repos\Tester-prog\Tester-prog\bin\Debug\Tester-prog.exe
+C:\Users\Globa\source\repos\Tester-prog\Tester-prog\bin\Debug\Tester-prog.pdb
+C:\Users\Globa\source\repos\Tester-prog\Tester-prog\obj\Debug\MainWindow.g.cs
+C:\Users\Globa\source\repos\Tester-prog\Tester-prog\obj\Debug\App.g.cs
+C:\Users\Globa\source\repos\Tester-prog\Tester-prog\obj\Debug\Tester-prog_MarkupCompile.cache
+C:\Users\Globa\source\repos\Tester-prog\Tester-prog\obj\Debug\Tester-prog_MarkupCompile.lref
+C:\Users\Globa\source\repos\Tester-prog\Tester-prog\obj\Debug\MainWindow.baml
+C:\Users\Globa\source\repos\Tester-prog\Tester-prog\obj\Debug\Tester-prog.g.resources
+C:\Users\Globa\source\repos\Tester-prog\Tester-prog\obj\Debug\Tester_prog.Properties.Resources.resources
+C:\Users\Globa\source\repos\Tester-prog\Tester-prog\obj\Debug\Tester-prog.csproj.GenerateResource.cache
+C:\Users\Globa\source\repos\Tester-prog\Tester-prog\obj\Debug\Tester-prog.csproj.CoreCompileInputs.cache
+C:\Users\Globa\source\repos\Tester-prog\Tester-prog\obj\Debug\Tester-prog.exe
+C:\Users\Globa\source\repos\Tester-prog\Tester-prog\obj\Debug\Tester-prog.pdb
+C:\Howeworks Course Projects\Tester\bin\Debug\Tester-prog.exe.config
+C:\Howeworks Course Projects\Tester\bin\Debug\Tester-prog.exe
+C:\Howeworks Course Projects\Tester\bin\Debug\Tester-prog.pdb
+C:\Howeworks Course Projects\Tester\obj\Debug\MainWindow.g.cs
+C:\Howeworks Course Projects\Tester\obj\Debug\App.g.cs
+C:\Howeworks Course Projects\Tester\obj\Debug\Tester-prog_MarkupCompile.cache
+C:\Howeworks Course Projects\Tester\obj\Debug\Tester-prog_MarkupCompile.lref
+C:\Howeworks Course Projects\Tester\obj\Debug\MainWindow.baml
+C:\Howeworks Course Projects\Tester\obj\Debug\Tester-prog.g.resources
+C:\Howeworks Course Projects\Tester\obj\Debug\Tester_prog.Properties.Resources.resources
+C:\Howeworks Course Projects\Tester\obj\Debug\Tester-prog.csproj.GenerateResource.cache
+C:\Howeworks Course Projects\Tester\obj\Debug\Tester-prog.csproj.CoreCompileInputs.cache
+C:\Howeworks Course Projects\Tester\obj\Debug\Tester-prog.exe
+C:\Howeworks Course Projects\Tester\obj\Debug\Tester-prog.pdb

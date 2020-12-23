@@ -1,0 +1,41 @@
+AAC = Advanced Audio Coding = усовершенствованное (продвинутое, перспективное) звуковое кодирование 
+ATM = automatic teller machine = банкомат
+AVOD = Audio and Video on demand = предоставление радио- и телевизионного канала по требованию
+CDMA = Code Division Multiple Access = многостанционный доступ с кодовым разделением каналов
+DBS = Direct-broadcast satellite = спутник прямого вещания
+DDoS = Distributed denial of service attacks = DDoS-атака (распределенная атака типа «отказ в обслуживании»)
+DoS = Denial of service = атака типа «отказ в обслуживании»
+DVB-H = Digital Video Broadcasting – Handheld = мобильное цифровое телевизионное вещание
+DVD = Digital Versatile Disk = универсальный цифровой диск; компакт-диск формата цифровой записи DVD
+E-OTD = Enhanced Observed Time Difference = улучшенная наблюдаемая разница во времени
+FM = диапазон УКВ-ЧМ (ультракороткие волны с частотной модуляцией)
+FMC = Fixed-Mobile Convergence = конвергенция стационарной и мобильной связи; конвергенция фиксированных и мобильных сетей
+GPS = Global Positioning System = глобальная система позиционирования (определения местоположения абонента сотовой связи)
+GSM = Global System for Mobile Communications = глобальная система мобильной связи (связи с подвижными объектами); стандарт GSM
+IM = Instant Messaging = мгновенный обмен сообщениями
+IMS = IP Multimedia Subsystem = мультимедийная подсистема на базе протокола IP
+IoE = Internet of Everything = «Интернет всего»
+iOS = i Operating System = операционная система компьютеров фирмы Apple
+IoT = Internet of Things = интернет вещей
+IPTV = Internet Protocol Television = интернет-телевидение; сетевое телевидение
+LBS = Location-based services = услуги, основанные на определении местоположения абонента
+LCD = Liquid-Crystal Display = жидкокристаллический экран 
+MMC = Mobile to mobile convergence = конвергенция мобильных сетей
+NEC = 1. Nippon Electronic Corporation (название фирмы) 2. National Electrical Code = Национальный свод стандартов и законов США по электротехнике
+PBX = private branch exchange = частная (офисная) автоматическая телефонная станция
+PDA = personal digital assistent = КПК = карманный персональный компьютер  
+PSTN = public switched telephone network = коммутируемая телефонная сеть общего пользования
+PTO = public telephone operator = оператор (телефонной) сети общего пользования
+RAM = Random Access Memory = ОЗУ (оперативное запоминающее устройство; оперативная память компьютера)
+RFID = Radio Frequency Identification = радиочастотная идентификация; считывание радиометок на упаковке товаров
+SaaS = Software as a Service = программное обеспечение как сервис / услуга (модель использования программного обеспечения с помощью облачных технологий)
+SIP = Session Initiation Protocol = протокол инициализации/ инициирования сеансов
+TDOA = time difference of arrival = временная разница приема сигнала; разность времени между моментами прихода сигналов
+UC = Unified Communications = объединенные коммуникации; унифицированное общение
+USB = Universal Serial Bus = шина USB (универсальная последовательная шина)
+UWB = Ultra Wide Band = сверхширокая полоса пропускания 
+VNO = virtual network operator = оператор виртуальной сети мобильной связи
+VOD = Video on demand = предоставление телевизионного канала по требованию
+VoIP = Voice over Internet Protocol = передача голоса по протоколу IP; технология передачи голоса по интернет-протоколу; интернет-телефония 
+VoWLAN = Voice over Wireless Local Area Network = передача голоса по беспроводной локальной сети
+Wi-Fi = Wireless Fidelity = вай-фай (название технологии беспроводного обмена данными
